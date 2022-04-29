@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lupushortus
+- 👋 Hi, I’m @lupushortus, real name is Marco
 - 👀 I’m interested in coding helpers for daily business, mostly in Perl, but...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on improving things, such as translations of programs
